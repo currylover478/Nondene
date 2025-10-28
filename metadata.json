@@ -1,0 +1,8 @@
+{
+  "name": "Nondene(家族通知機能)",
+  "description": "An AI-powered medication partner to help elderly users manage their daily medication schedule through a simple, voice-first interface. It provides reminders and answers questions about medication.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
